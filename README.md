@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qaoud" alt="qaoud" /></a> </p>
 
-<img align="right" width="200" alt="coding" src="https://user-images.githubusercontent.com/23742278/199736962-5a9b1106-ec55-4cb8-b18d-ab2b99db104e.png">
+<img align="right" width="200" alt="coding" src="https://user-images.githubusercontent.com/23742278/199746796-913553cf-5a74-4556-91ef-12901a339c96.png">
 
 - 🎓 My education: **A master's in Robotics Engineering from [Università di Genova](https://unige.it/en/), and a bachelor's in Mechatronics Engineering from [Heliopolis University](https://www.hu.edu.eg/)**
 
